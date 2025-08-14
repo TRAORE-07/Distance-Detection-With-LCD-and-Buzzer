@@ -2,5 +2,6 @@
 An IoT system with Distance calculation with:
 - An LCD to display the distance
 - A Buzzer, to sound a beeping alarm when 50 <= distance < 100 and a an alarm when distance < 50.
-<img width="1536" height="679" alt="Distance Buzzer" src="https://github.com/user-attachments/assets/3dc97ae6-9c2c-4396-8859-dfcdda4ed6dd" />
-
+<img width="1122" height="842" alt="Case 1 - Safe Distance" src="https://github.com/user-attachments/assets/4d651da2-f4c1-4388-bd17-bd2f59e8e166" />
+<img width="1110" height="849" alt="Case 2 - Ok Distance" src="https://github.com/user-attachments/assets/529a56de-f999-4a78-85ca-4e59260b9f7e" />
+<img width="1122" height="848" alt="Case 3 - Too Close Distance" src="https://github.com/user-attachments/assets/ec0a5a2b-7497-401a-a6da-da9feb97d35e" />
